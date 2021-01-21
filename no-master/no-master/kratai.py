@@ -35,8 +35,8 @@ Exc = [line]
 lineMID = line.getProfile().mid
 bot1 = line.getProfile().mid
 RfuBot=[lineMID]
-Family=["U688da9ab2ebba9e9482ae11f9fb9602a",lineMID]
-admin=['U688da9ab2ebba9e9482ae11f9fb9602a',lineMID]
+Family=["Ub5b179285ef85e8d2370009716b87961",lineMID]
+admin=['Ub5b179285ef85e8d2370009716b87961',lineMID]
 RfuFamily = RfuBot + Family
 
 protectname = []
@@ -741,7 +741,7 @@ def lineBot(op):
                 elif text.lower() == 'ข้อมูล':
                     try:
                         arr = []
-                        owner = "U688da9ab2ebba9e9482ae11f9fb9602a"
+                        owner = "Ub5b179285ef85e8d2370009716b87961"
                         creator = line.getContact(owner)
                         contact = line.getContact(lineMID)
                         grouplist = line.getGroupIdsJoined()
@@ -970,7 +970,7 @@ def lineBot(op):
                     line.sendContact(to, lineMID)                    
                 elif text.lower() == 'ผส':
                     sendMessageWithMention(to, lineMID)
-                    line.sendContact(to, "U688da9ab2ebba9e9482ae11f9fb9602a")
+                    line.sendContact(to, "Ub5b179285ef85e8d2370009716b87961")
                 elif text.lower() == 'mid':
                     line.sendMessage(msg.to,"➠MID คือ👇\n\n" +  lineMID)
                 elif text.lower() == 'ชื่อ':
@@ -3927,7 +3927,7 @@ def lineBot(op):
                         line.sendMessage(to, "➠ส่งรูปภาพลงมา")
                         
                 elif text.lower() == "ปิดไฟ":
-                    line.sendContact(to, "U688da9ab2ebba9e9482ae11f9fb9602a',")      
+                    line.sendContact(to, "Ub5b179285ef85e8d2370009716b87961',")      
 
                 elif text.lower() == 'ลบรัน':
                     gid = line.getGroupIdsInvited()
