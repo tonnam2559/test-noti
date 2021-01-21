@@ -28,6 +28,6 @@ git clone https://github.com/tonnam2559/test-noti/
 
 #Nano kratai.py    (Edit MID)
 
-cd no-master
+cd test-noti
 
 PYThon3 kratai.py
