@@ -24,7 +24,7 @@ pip3 install googletrans
 
 pkg install nano
 
-git clone https://github.com/tonnam2559/test-noti.git
+git clone https://github.com/tonnam2559/test-noti/tree/main/no-master/no-master
 
 Nano Tes.py    (Edit MID)
 
