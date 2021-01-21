@@ -30,4 +30,4 @@ git clone https://github.com/tonnam2559/test-noti/
 
 cd test-noti
 
-PYThon3 kratai.py
+python3 kratai.py
