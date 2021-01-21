@@ -26,8 +26,8 @@ pkg install nano
 
 git clone https://github.com/tonnam2559/test-noti/tree/main/no-master/no-master
 
-Nano Tes.py    (Edit MID)
+Nano kratai.py    (Edit MID)
 
-cd botLineEm
+cd no-master
 
-PYThon3 Tes.py
+PYThon3 kratai.py
