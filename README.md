@@ -4,7 +4,7 @@ apt upgrade
 
 apt install git
 
-pkg install python3
+pkg install python3  ตอบ Y/n = y
 
 pip3 install rsa
 
@@ -22,11 +22,11 @@ pip3 install humanfriendly
 
 pip3 install googletrans
 
-pkg install nano
+#pkg install nano
 
-git clone https://github.com/tonnam2559/test-noti/tree/main/no-master/no-master
+git clone https://github.com/tonnam2559/test-noti/
 
-Nano kratai.py    (Edit MID)
+#Nano kratai.py    (Edit MID)
 
 cd no-master
 
