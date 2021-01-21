@@ -103,7 +103,7 @@ settings = {
     "man1":"ตั้งข้อความ",
     "man2":"ตั้งข้อความ",
     "man3":"ตั้งข้อความ",
-    "message":"บัญชีนี้ได้การป้องกัน💢โดย เอ็ม Bot Self ระบบได้ทำการบล็อคคุณอัตโนมัติ\nติดต่อเอ็มได้ที่ Em_club0075",
+    "message":"บัญชีนี้ได้การป้องกัน💢โดย KRATAI88 Bot Self ระบบได้ทำการบล็อคคุณอัตโนมัติ",
     "comment":"Thanks for add me",
     "userAgent": [
         "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
@@ -192,8 +192,8 @@ backup.statusMessage = contact.statusMessage
 backup.pictureStatus = contact.pictureStatus
 
 mulai = time.time() 
-dangerMessage = ["เอ็มเสียใจด้วยครับ","โชคดีครับ","ชีวิตยังมีงวดหน้าเสมอ",".winebot",".kickall","mayhem","kick on","makasih :d","!kickall","nuke","บิน",".???","Kickall","บินไปดิ","Kickword","kickword","!kickword","/kickall"]
-dangerMessage2 = ["ว่างัยจ๊ะทิรักของเอ็ม 5555","คร้าบบ","ว่างัยน่ะ!!.. รักเอ็มหรออ อิอิ","ว่างัยเอ๋ยย เอ็มรอฟังอยู่","เอ็มมาแล้วคร้าบบ","แอบรักเอ็มอยู่หราาา","แอบชอบเอ็มหราา","รักเอ็มหรอ","คิดถึงเอ็มมากเลยหรอ"]
+dangerMessage = ["KRATAI88เสียใจด้วยครับ","โชคดีครับ","ชีวิตยังมีงวดหน้าเสมอ",".winebot",".kickall","mayhem","kick on","makasih :d","!kickall","nuke","บิน",".???","Kickall","บินไปดิ","Kickword","kickword","!kickword","/kickall"]
+dangerMessage2 = ["ว่างัยจ๊ะทิรักของKRATAI88 5555","จร้า","ว่างัยน่ะ!!.. รักKRATAI88หรออ อิอิ","ว่างัยเอ๋ยย KRATAI88รอฟังอยู่","KRATAI88มาแล้วจ้า","แอบรักKRATAI88อยู่หราาา","แอบชอบKRATAI88หราา","รักKRATAI88หรอ","คิดถึงKRATAI88มากเลยหรอ"]
 
 myProfile["displayName"] = lineProfile.displayName
 myProfile["statusMessage"] = lineProfile.statusMessage
@@ -256,7 +256,7 @@ def sendMessageWithMention(to, lineMID):
         logError(error)
  
 def myhelp():
-    myHelp = """ 🔯เอ็ม Bot Self🔯
+    myHelp = """ 🔯KRATAI88 BotSelf🔯
 🚨คำสั่ง = คำสั่ง
 🚨คำสั่ง2 = คำสั่งเชลบอท
 🚨คำสั่ง3 = คำสั่งการแทค
@@ -265,11 +265,11 @@ def myhelp():
 💎คำสั่ง6 = คำสั่งกลุ่ม
 💎คำสั่ง7 = คำสั่งเลียนแบบ
 💎คำสั่ง8 = คำสั่งล่องหน
-🔱 🔱เอ็ม Bot Self🔱🔱"""
+🔱 🔱KRATAI88 Bot Self🔱🔱"""
     return myHelp
 
 def listgrup():
-    listGrup =  """💢คำสั่งตั้งค่า เอ็มBotSelf💢
+    listGrup =  """💢คำสั่งตั้งค่า KRATAI88 BotSelf💢
 🌠เปิดเข้า ➠ เข้ากลุ่มออโต้
 🌠ปิดเข้า ➠ ปิดเข้ากลุ่มออโต้
 🌠เปิดบล็อค ➠ ออโต้บล็อค
@@ -303,7 +303,7 @@ def listgrup():
     return listGrup
 
 def socmedia():
-    socMedia = """💌คำสั่งแทค เอ็มBotSelf💌
+    socMedia = """💌คำสั่งแทค KRATAI88 BotSelf💌
 ⭐คท @ ➠ แทคคนที่จะเอาคท
 ⭐มิด @  ➠ ลงmidคนอื่น
 ⭐ชื่อ @ ➠ ลงชื่อคนอื่น
@@ -322,7 +322,7 @@ def socmedia():
     return socMedia
     
 def helpset():
-    helpSet = """🔱🔱คำสั่ง เอ็มBotSelf🔱🔱
+    helpSet = """🔱🔱คำสั่ง KRATAI88 BotSelf🔱🔱
 🛂 เอ็ม  🔀 คอนแทคเอ็ม
 🛂 มิด  🔀 MID เรา
 🛂 ชื่อ  🔀 ชื่อเรา
@@ -354,7 +354,7 @@ def helpset():
     return helpSet 
 
 def helpkicker():
-    helpKicker = """⏳คำสั่งค้นหา เอ็มBotSelf⏳
+    helpKicker = """⏳คำสั่งค้นหา KRATAI88 BotSelf⏳
 📝 พูด ข้อความ ➠ สั่งสิริพูด
 📝 ยูทูป ข้อความ ➠ ค้นหาในยูทูป
 📝 เขียน ข้อความ ➠ เขียน
@@ -364,7 +364,7 @@ def helpkicker():
     return helpKicker
     
 def helpsetting():
-    helpSetting = """⚓คำสั่งกลุ่ม เอ็มBotSelf⚓
+    helpSetting = """⚓คำสั่งกลุ่ม KRATAI88 BotSelf⚓
 🍁 กลุ่ม ➠ ข้อมูลกลุ่ม
 🍁 ไอดีกลุ่ม ➠ไอดีห้อง
 🍁 ชื่อกลุ่ม ➠ ชื่อห้อง
@@ -385,7 +385,7 @@ def helpsetting():
     return helpSetting
 
 def helptexttospeech():
-    helpTextToSpeech =   """⚡คำสั่งเลียนแบบเอ็มBotSelf⚡
+    helpTextToSpeech =   """⚡คำสั่งเลียนแบบKRATAI88BotSelf⚡
 🔁 เลียนแบบ on/off 
 🔁 เลียนแบบ 
 🔁 เพิ่มเลียนแบบ (@) 
@@ -529,7 +529,7 @@ def lineBot(op):
                         if g.displayName in "":
                             targets.append(g.mid)
                     if targets == []:
-                        line.sendMessage(to, "💨ไม่มีคนใส่ร่องหนในกลุ่มนี้ครับ✅")
+                        line.sendMessage(to, "💨ไม่มีคนใส่ร่องหนในกลุ่มนี้จร้า✅")
                     else:
                         mc = ""
                         for target in targets:
@@ -542,7 +542,7 @@ def lineBot(op):
                         if g.displayName in "":
                             lists.append(g.mid)
                     if lists == []:
-                        line.sendMessage(to, "💠ไม่มี MID คนใส่ร่องหนครับ✅")
+                        line.sendMessage(to, "💠ไม่มี MID คนใส่ร่องหนจร้า✅")
                     else:
                         mc = ""
                         for mi_d in lists:
@@ -555,7 +555,7 @@ def lineBot(op):
                         if g.displayName in "":
                             lists.append(g.mid)
                     if lists == []:
-                        line.sendMessage(to, "💢ไม่มีคนใส่ร่องหนในกลุ่มนี้ครับ✅")
+                        line.sendMessage(to, "💢ไม่มีคนใส่ร่องหนในกลุ่มนี้จร้า✅")
                     else:
                         for ls in lists:
                             contact = line.getContact(ls)
@@ -600,7 +600,7 @@ def lineBot(op):
                             mc += "◉ " + line.getContact(mi_d).displayName + "\n"
                         line.sendMessage(to, mc)              
                 elif text.lower() == '.เทส':
-                    ki.sendMessage(to, "เอ็ม BotSelfยังอยู่ครับ")
+                    ki.sendMessage(to, "KRATAI88 BotSelfยังอยู่จร้า")
                 elif text.lower() == 'เทส':
                     line.sendMessage(to, "เอ็ม BotSelfกำลังโหลด:▒...0%")
                     line.sendMessage(to, "█▒... 10.0%")
@@ -613,7 +613,7 @@ def lineBot(op):
                     line.sendMessage(to, "████████▒... 80.0%")
                     line.sendMessage(to, "█████████▒... 90.0%")
                     line.sendMessage(to, "███████████..100.0%")
-                    line.sendMessage(to, " 🔱เอ็ม BotSelf ยังอยู่ครับ✔")
+                    line.sendMessage(to, " 🔱KRATAI88 BotSelf ยังอยู่จร้า✔")
                 elif msg.text.lower() == ".ออน":
                     line.sendMessage(msg.to,(str(datetime.datetime.now() - start_runtime)[:-7].split(" days, ")[0]+" วัน "+str(datetime.datetime.now() - start_runtime)[:-7].split(" days, ")[1].split(":")[0]+" ชั่วโมง " if "days" in str(datetime.datetime.now() - start_runtime) else str(datetime.datetime.now() - start_runtime)[:-7].split(" day, ")[0]+" วัน "+str(datetime.datetime.now() - start_runtime)[:-7].split(" day, ")[1].split(":")[0]+" ชั่วโมง " if "day" in str(datetime.datetime.now() - start_runtime) else str(datetime.datetime.now() - start_runtime)[:-7].split(":")[0]+" ชั่วโมง ")+str(datetime.datetime.now() - start_runtime)[:-7].split(":")[1]+" นาที "+str(datetime.datetime.now() - start_runtime)[:-7].split(":")[2]+" วินาที")               
                 elif "คท " in msg.text:
@@ -713,7 +713,7 @@ def lineBot(op):
                             pass
                 elif text.lower() == 'สปีด':
                     start = time.time()
-                    line.sendMessage(to,"ความเร็วของ เอ็ม Bot Self...")
+                    line.sendMessage(to,"ความเร็วของ KRATAI88 Bot Self...")
                     elapsed_time = time.time() - start
                     line.sendMessage(to,format(str(elapsed_time)))	
                 elif text.lower() == 'รีบอท':
@@ -724,7 +724,7 @@ def lineBot(op):
                     timeNow = time.time()
                     runtime = timeNow - botStart
                     runtime = format_timespan(runtime)
-                    line.sendMessage(to, "⏳ เอ็ม Bot Self⏳\n""ระยะเวลาการทำงานของบอท {}".format(str(runtime)))
+                    line.sendMessage(to, "⏳ KRATAI88 Bot Self⏳\n""ระยะเวลาการทำงานของบอท {}".format(str(runtime)))
                 elif text.lower() == 'บอท':
                     try:
                         arr = []
@@ -734,14 +734,14 @@ def lineBot(op):
                         grouplist = line.getGroupIdsJoined()
                         contactlist = line.getAllContactIds()
                         blockedlist = line.getBlockedContactIds()
-                        ret_ = "╔══[  เอ็ม Bot Self ]" 
+                        ret_ = "╔══[  KRATAI88 Bot Self ]" 
                         ret_ += "\n╠🌟⏩ ชื่อ ═ {}".format(contact.displayName)
                         ret_ += "\n╠🌟⏩ กลุ่ม ═ {}".format(str(len(grouplist)))
                         ret_ += "\n╠🌟⏩ เพื่อน ═ {}".format(str(len(contactlist)))
                         ret_ += "\n╠🌟⏩ บล็อค ═ {}".format(str(len(blockedlist)))
                         ret_ += "\n╠══[สถานะ]"
                         ret_ += "\n╠🌟⏩ ผู้สร้าง ═ {}".format(creator.displayName)
-                        ret_ += "\n╚══[  เอ็ม Bot Self ]"
+                        ret_ += "\n╚══[  KRATAI88 Bot Self ]"
                         line.sendContact(to, owner)
                         line.sendMessage(to, str(ret_))
                     except Exception as e:
@@ -749,7 +749,7 @@ def lineBot(op):
 #==============================================================================#
                 elif text.lower() == 'สถานะ':
                     try:
-                        ret_ = "╔════[  สถานะ เอ็ม Bot Self ]═════┓"
+                        ret_ = "╔════[  สถานะ KRATAI88 Bot Self ]═════┓"
                         if settings["บอททำงานปกติครับ"] == True: ret_ += "\n╠❂☞ รับบล็อคออโต้ ✔"
                         else: ret_ += "\n╠🔀 รับบล็อคออโต้    ✘ "
                         if settings["autoJoin"] == True: ret_ += "\n╠❂☞ เข้าห้องออโต้ ✔"
@@ -776,7 +776,7 @@ def lineBot(op):
                         else: ret_ += "\n╠🔀 แสดงภาพคนแทค ✘ "
                         if settings["detectMention"] == True: ret_ += "\n╠❂☞ แสดงติ้กคนแทค ✔"
                         else: ret_ += "\n╠🔀 แสดงติ้กคนแทค ✘ "
-                        ret_ += "\n╚════[ สถานะ เอ็ม Bot Self ]═════┛"
+                        ret_ += "\n╚════[ สถานะ KRATAI88 Bot Self ]═════┛"
                         line.sendMessage(to, str(ret_))
                     except Exception as e:
                         line.sendMessage(msg.to, str(e))
@@ -884,7 +884,7 @@ def lineBot(op):
                      line.sendMessage(to, "👍ส่งรูปมา👎")      
 #==============================================================================#
 
-                elif text.lower() == 'เอ็ม':
+                elif text.lower() == 'KRATAI88':
                     sendMessageWithMention(to, lineMID)
                     line.sendContact(to, lineMID)
                 elif text.lower() == 'ผส':
@@ -1177,7 +1177,7 @@ def lineBot(op):
                                 sep = text.split(" ")
                                 strnum = text.replace(sep[0] + " ","")
                                 num = int(strnum)
-                                line.sendMessage(to, "เชิญเข้าร่วมการคอลเรียบร้อยแล้วครับ")
+                                line.sendMessage(to, "เชิญเข้าร่วมการคอลเรียบร้อยแล้วจร้า")
                                 for var in range(0,num):
                                     group = line.getGroup(to)
                                     members = [mem.mid for mem in group.members]
@@ -1192,7 +1192,7 @@ def lineBot(op):
                     line.sendAudio(msg.to,"hasil.mp3")
                 elif "โทร" == msg.text.lower():
                     line.inviteIntoGroupCall(msg.to,[uid.mid for uid in line.getGroup(msg.to).members if uid.mid != line.getProfile().mid])
-                    line.sendMessage(msg.to,"เชิญเข้าร่วมการโทรสำเร็จแล้วครับ")	
+                    line.sendMessage(msg.to,"เชิญเข้าร่วมการโทรสำเร็จแล้วจร้า")	
                 elif text.lower() == 'แทก':
                             if msg.toType == 0:
                                 sendMention(to, to, "", "")
@@ -1600,7 +1600,7 @@ def lineBot(op):
                     for ids in kontak:
                         msgs+="\n[%i] %s" % (num, ids.displayName)
                         num=(num+1)
-                    msgs+="\n════By.เอ็มBotSelf════\n\nจำนวน : %i" % len(kontak)
+                    msgs+="\n════By.KRATAI88BotSelf════\n\nจำนวน : %i" % len(kontak)
                     line.sendMessage(receiver, msgs)
                 elif text.lower() == 'tagall':
                     group = line.getGroup(msg.to)
@@ -3103,7 +3103,7 @@ def lineBot(op):
                         web.headers["User-Agent"] = random.choice(settings["userAgent"])
                         r = web.get("https://www.youtube.com/results", params = params)
                         soup = BeautifulSoup(r.content, "html.parser")
-                        ret_ = "╔══[ ผลการค้นหาของ เอ็มBotSelf ]"
+                        ret_ = "╔══[ ผลการค้นหาของ KRATAI88BotSelf ]"
                         datas = []
                         for data in soup.select(".yt-lockup-title > a[title]"):
                             if "&lists" not in data["href"]:
@@ -3248,7 +3248,7 @@ def lineBot(op):
 #=============COMMAND KICKER===========================#
                 elif msg.text in ["ล้างดำ"]:
                     settings["blacklist"] = {}
-                    line.sendMessage(msg.to,"ทำการลบัญชีดำทั้งหมดเรียร้อย")
+                    line.sendMessage(msg.to,"ทำการลบบัญชีดำทั้งหมดเรียร้อย")
                     print ("Clear Ban")
 
                 elif 'เตะ' in text.lower():
@@ -3286,7 +3286,7 @@ def lineBot(op):
                        for target in targets:
                            try:
                                line.inviteIntoGroup(msg.to,[target])
-                               line.sendMessage(receiver, "Type👉 Invite Succes")
+                               line.sendMessage(receiver, "Type👉 Invite Success")
                            except:
                                line.sendMessage(msg.to,"Type👉 Limit Invite")
                 elif "Cleanse" in msg.text:
@@ -3830,13 +3830,13 @@ def lineBot(op):
                         path = line.downloadObjectMsg(msg_id)
                         settings["changePictureProfile"] = False                                                                               
                         line.updateProfilePicture(path)                                                                                        
-                        line.sendMessage(to, "เปลี่ยนโปรไฟล์สำเร็จแล้วครับ")
+                        line.sendMessage(to, "เปลี่ยนโปรไฟล์สำเร็จแล้วจร้า")
                     if msg.toType == 2:
                         if to in settings["changeGroupPicture"]:
                             path = line.downloadObjectMsg(msg_id)
                             settings["changeGroupPicture"].remove(to)
                             line.updateGroupPicture(to, path)
-                            line.sendMessage(to, "เปลี่ยนรูปกลุ่มสำเร็จแล้วครับ")
+                            line.sendMessage(to, "เปลี่ยนรูปกลุ่มสำเร็จแล้วจร้า")
             elif msg.contentType == 7:
                 if settings["checkSticker"] == True:
                     stk_id = msg.contentMetadata['STKID']
@@ -4047,14 +4047,14 @@ def lineBot(op):
                 if msg.text in ["me","คท","Me",".คท","!me","/me"]:
                     line.sendText(msg.to,"เช็คทั้งวันทั้งคืนเลยหรอ555")
                 if msg.text in ["speed","sp","Speed","สปีด","!speed","/speed"]:
-                    line.sendText(msg.to,"แรงขนาดนี้ เอ็มนี้ไลค์เลย👍")
+                    line.sendText(msg.to,"แรงขนาดนี้ KRATAI88นี้ไลค์เลย👍")
                 if msg.text in ["กินข้าวยัง","กินข้าวยังทุกคน","กินข้าวกันยัง","กินข้าวกันยังทุกคน","กินข้าวยังค่ะ","กินข้างยังคับ","กินข้าวยังครับทุกคน"]:
                     line.sendText(msg.to,"ยังเลย รอคนมาป้อนอยู่!!.")
                 if msg.text in ["555","5555","55555","55+","55++","555+","555++","5555+","5555++"]:
-                    line.sendText(msg.to,"เอ็มว่าอาการหนักนะเนี๊ยะ!!. อิอิ😝😝")				
+                    line.sendText(msg.to,"KRATAI88ว่าอาการหนักนะเนี๊ยะ!!. อิอิ😝😝")				
                 if msg.text in dangerMessage:
                     random.choice(Rfu).kickoutFromGroup(receiver,[sender])
-                    random.choice(Rfu).sendText(msg.to,"ตรวจพบคำสั่งของบอทลบกลุ่ม  เอ็ม Bot Self จำเป็นต้องนำออกเพื่อความปลอดภัยของสมาชิก")										
+                    random.choice(Rfu).sendText(msg.to,"ตรวจพบคำสั่งของบอทลบกลุ่ม  KRATAI88 Bot Self จำเป็นต้องนำออกเพื่อความปลอดภัยของสมาชิก")										
         if op.type == 17:
           if settings["Wc"] == True:
             if op.param2 in bot1:
@@ -4086,7 +4086,7 @@ def lineBot(op):
                             pass
                         else:
                             RfuCctv['sidermem'][op.param1] += "\n👉" + Name
-                            pref=['สวัสดีครับคนอ่าน➡','ตร๊ะ!..เอ๋!!..😝➡','หวัดดีจร้า💖➡','เอ็มเห็นนะ อิอิ..😝➡','แอบทำมัย? มาคุยกันหน่อย➡','แอบแฟนเล่นหราา💨➡','เอ็มรู้นะว่าคัยอ่าน👉➡','เล่นซ่อนแอบหรอคร้าบบ👻➡','มาคุยกับเค้าหน่อย➡','นั่นแน่ แอบหราาา➡']
+                            pref=['สวัสดีจร้าคนอ่าน➡','ตร๊ะ!..เอ๋!!..😝➡','หวัดดีจร้า💖➡','KRATAI88เห็นนะ อิอิ..😝➡','แอบทำมัย? มาคุยกันหน่อย➡','แอบแฟนเล่นหราา💨➡','KRATAI88รู้นะว่าคัยอ่าน👉➡','เล่นซ่อนแอบหรอคร้าบบ👻➡','มาคุยกับเค้าหน่อย➡','นั่นแน่ แอบหราาา➡']
                             line.sendMessage(op.param1, str(random.choice(pref))+' '+Name)
                     else:
                         pass
